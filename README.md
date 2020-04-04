@@ -1,0 +1,2 @@
+# homework
+adaptive layout
